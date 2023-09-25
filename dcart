@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Your Accessories Shop</title>
+    <link rel="stylesheet" type="text/css" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Welcome to Your Accessories Shop</h1>
+    </header>
+    <nav>
+        <ul>
+            <li><a href="#">Home</a></li>
+            <li><a href="#shoes">Shoes</a></li>
+            <li><a href="#watches">Watches</a></li>
+            <li><a href="#sunglasses">Sunglasses</a></li>
+            <li><a href="#perfumes">Perfumes</a></li>
+            <li><a href="#rings">Rings</a></li>
+            <li><a href="#crocs">Crocs</a></li>
+            <li><a href="#chains">Chains</a></li>
+            <li><a href="#contact">Contact</a></li>
+        </ul>
+    </nav>
+    <div class="container">
+        <section id="shoes">
+            <h2>Shoes</h2>
+            <!-- Add your shoe products here -->
+        </section>
+
+        <section id="watches">
+            <h2>Watches</h2>
+            <!-- Add your watch products here -->
+        </section>
+
+        <section id="sunglasses">
+            <h2>Sunglasses</h2>
+            <!-- Add your sunglasses products here -->
+        </section>
+
+        <section id="perfumes">
+            <h2>Perfumes</h2>
+            <!-- Add your perfume products here -->
+        </section>
+
+        <section id="rings">
+            <h2>Rings</h2>
+            <!-- Add your ring products here -->
+        </section>
+
+        <section id="crocs">
+            <h2>Crocs</h2>
+            <!-- Add your Crocs products here -->
+        </section>
+
+        <section id="chains">
+            <h2>Chains</h2>
+            <!-- Add your chain products here -->
+        </section>
+        
+        <section id="contact">
+            <h2>Contact Us</h2>
+            <p>If you have any questions or inquiries, please contact us at contact@example.com.</p>
+        </section>
+    </div>
+</body>
+</html>
